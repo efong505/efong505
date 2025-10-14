@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efong505
-- 👀 I’m interested in learning more Python and C# programming
-- 🌱 I’m currently learning a multitude of IT and Programming items at NMSU. 
+- 👀 I’m interested in learning more Python and C# programming and AWS Developer and Solutions Architect topics.
+- 🌱 I’m recemtly graduated with my bachelor's and master's degree in Information and Communication Technology with a concentration in Software Develoment at NMSU. 
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: efong505@nmsu.edu
 
