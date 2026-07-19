@@ -1,7 +1,7 @@
 # Edward Fong
 
 - 👋 Hi, I’m @efong505
-- 🌱 I recemtly graduated with my bachelor's in Information and Communication Technology with a concentration in Software Develoment at NMSU and master's degree in Information Technology. 
+- 🌱 I recently completed a bachelor's degree in Information and Communication Technology with a concentration in Software Development and a master's degree in Information Technology from New Mexico State University.
 - 📫 How to reach me: contact@ekewaka.com
 
 
