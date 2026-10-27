@@ -28,22 +28,25 @@ I am targeting **Cloud Engineer, Cloud Infrastructure Engineer, Infrastructure A
 
 ## Selected Engineering Work
 
+### [AWS Networking Rebuild](https://github.com/efong505/aws-networking-rebuild)
+
+Independent Terraform-based AWS networking lab. Phase 1 was deployed and validated, including a two-Availability-Zone VPC, private Systems Manager access, NAT and S3 endpoint connectivity, VPC Flow Logs, and controlled routing/security-group failure-and-recovery drills. The lab infrastructure was subsequently destroyed; Phase 2 is planned. The project's public-readiness review remains pending.
+
+This is **hands-on production-like lab evidence**, not professional production AWS tenure. See the repository's `IMPLEMENTATION_STATUS.md` and validation records for the exact evidence boundaries.
+
 ### [Private Cloud Music Player](https://github.com/efong505/private-cloud-music-player)
 
-Cloud-native AWS project focused on private, secure media delivery and reproducible infrastructure.
+Independent cloud-native music platform project focused on secure media delivery and reproducible infrastructure.
 
-**Current technical scope includes:**
-- Terraform-managed AWS infrastructure
-- Amazon Cognito authentication
-- S3 private storage
-- CloudFront with Origin Access Control
-- API Gateway / Lambda / DynamoDB architecture
-- signed URL delivery
-- GitHub Actions validation
-- CloudWatch monitoring
-- PowerShell-based ingestion workflows
+**Implemented in source:**
+- GitHub Actions checks for Python, frontend build, and Terraform formatting when applicable
+- PowerShell ingestion-manifest tooling with file hashing
+- React/TypeScript frontend and Python backend scaffolds
+- Architecture, security and threat-model documentation, and WP-01 acceptance criteria
 
-This repository is an independent project and does not represent employer production cloud tenure.
+**Planned / not yet deployed from this repository:** Terraform-managed AWS media infrastructure, private S3 storage, CloudFront Origin Access Control and signed playback URLs, Cognito authentication, API Gateway/Lambda/DynamoDB application services, and associated cloud monitoring.
+
+The AWS infrastructure has **not yet been deployed from this repository**. These are project implementation goals, not claims of completed deployment or employer production experience.
 
 ### [MECM Enterprise Imaging Lab](https://github.com/efong505/mecm-enterprise-imaging-lab)
 
@@ -86,7 +89,7 @@ I keep **professional production infrastructure**, **independent production syst
 I am currently strengthening two areas that directly support Cloud Engineer roles:
 
 - **AWS Solutions Architect – Associate:** in preparation; not yet represented as earned
-- **AWS networking refresh:** rebuilding current hands-on evidence around VPC design, routing, NAT, private connectivity, DNS, endpoints, observability, and troubleshooting with Terraform
+- **AWS networking refresh:** Phase 1 deployed, validated through connectivity and controlled failure/recovery drills, and destroyed; Phase 2 remains planned
 
 ## What I Bring to a Cloud / Infrastructure Team
 
